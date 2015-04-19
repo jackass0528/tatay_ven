@@ -1,8 +1,8 @@
 # tatay_ven
 cebu food droid
 <h1>tatay_ven</h1>
-name of mY dad SOme People call her (tatay_ven).</br>
-CEBU FOOD DROID </br>is Category of my site 
+name of mY dad SOme People call her (tatay_ven).<b>
+CEBU FOOD DROID <b>is Category of my site 
 <strong>CEBU</strong>its means all kind of buisness in cebu.
 <strong>FOOD</strong>Its means all kind of Best food for cebuano.
 <strong>DROID</strong>Droids is name of a person,like you!</br>
